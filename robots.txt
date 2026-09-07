@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kto-wygra-mundial-2026.pl/sitemap.xml
